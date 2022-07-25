@@ -4,8 +4,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+GitHub+Profile)](https://git.io/typing-svg)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedesmailcis&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedesmailcis" /> </p>
 
-<p align="left"> <a href="https://twitter.com/ahmedesmailcis" target="blank"><img src="https://img.shields.io/twitter/follow/ahmedesmailcis?logo=twitter&style=for-the-badge" alt="ahmedesmailcis" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ahmedesmailcis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahmedesmailcis" height="30" width="40" /></a>
